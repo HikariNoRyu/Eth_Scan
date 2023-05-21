@@ -17,5 +17,5 @@ sudo nmap -sS <target>
 sudo nmap -sS -p <port> <targetIP>
   
 ## Prevent 
-
-
+Ip table prevention
+iptables -A INPUT -p tcp –tcp-flags -j ACCEPT
