@@ -1,4 +1,4 @@
-# TCP Half Scan
+# TCP Half Open Scan Team
 * Nicholas Valerianus BUdiman (2502055596) L4AC
 * Hansel Faren (2501990350) L4AC
 * Benedictus Filbert Federico (2502005263) L4AC
